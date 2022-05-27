@@ -8,6 +8,7 @@
 
 * Class and method names in **PascalCase**
 * Constants in **PascalCase** or **UPPER_CASE**
+* C# Properties in **PascalCase**
 * Everything else in **camelCase**
 * No **numbers or special characters** in identifiers (also no underscores)
 * Identifiers should be chosen **expressive and self-documenting**: Do not use **abbreviations** or type prefixes
