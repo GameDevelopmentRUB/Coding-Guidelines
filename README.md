@@ -1,9 +1,6 @@
 # Coding Guidelines and Best Practices
 -> For examples see [README_WITH_EXAMPLES](README_WITH_EXAMPLES.md) or [ExampleCode.cs](ExampleCode.cs)
 
-## Guidelines
--> Points may be deducted for non-compliance
-
 ### Naming Conventions
 
 * Class and method names in **PascalCase**
