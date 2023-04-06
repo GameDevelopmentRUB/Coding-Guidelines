@@ -1,8 +1,5 @@
 # Coding Guidelines and Best Practices
 
-## Guidelines
--> Points may be deducted for non-compliance
-
 ### Naming Conventions
 
 * Class and method names in **PascalCase** 
